@@ -1,0 +1,12 @@
+.qrcode{
+    width: 100px;
+    height: 100px;
+}
+
+@media screen and (min-width:340px)
+{
+    .qrcode{
+        width: 100px;
+        height: 100px;
+    }
+}

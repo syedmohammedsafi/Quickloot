@@ -1,0 +1,26 @@
+@media only screen and (max-width: 640px) {
+    .slide {
+        position: relative;
+        top: 30px;
+        width: 100%;
+        overflow-y: hidden;
+    }
+    .smallCard {
+        width: 230px;
+        height: 80px;
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1440px) {
+    .slide {
+        position: relative;
+        top: 50px;
+        width: 100%;
+        left: 10px;
+        overflow-y: hidden;
+    }
+    .smallCard {
+        width: 300px;
+        height: 120px;
+    }
+}

@@ -1,0 +1,17 @@
+@media screen and (max-width:640px)
+{
+    .fsec{
+        position:relative;
+        top: 130px;
+        
+    }
+    .reserve{
+        font-size: 10px;
+    }
+    .contact{
+        font-size: 10px;
+    }
+    .social{
+        font-size: 10px;
+    }
+}
