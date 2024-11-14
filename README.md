@@ -8,8 +8,8 @@ This is a boilerplate project setup for building a React application with Tailwi
 - Node.js and npm (or yarn) installed on your local machine.
 
 ### Installation
-1. Clone this repository by running `git clone https://github.com/<your-username>/<your-project-name>.git` in your terminal or by downloading the ZIP file.
-2. Navigate to the project directory by running `cd <your-project-name>`
+1. Clone this repository by running `git clone https://github.com/syedmohammedsafi/quickloot.git` in your terminal or by downloading the ZIP file.
+2. Navigate to the project directory by running `cd quickloot`
 3. Install dependencies by running `yarn install` or `npm install` in your terminal.
 4. Create a Firebase project and enable Firebase Authentication. You can follow the instructions provided by Firebase [here](https://firebase.google.com/docs/auth/web/start).
 5. Create a `firebase store` file at the root of your project directory and add the Firebase configuration details.
